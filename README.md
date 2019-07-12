@@ -14,6 +14,6 @@ Create a bot,copy the token and paste it in the TOKEN.txt file.
 The bot is made using discord.py rewrite version. For more info refer the discord.py documetation.  
 https://discordpy.readthedocs.io/en/latest/
 
-Requirements =>
+Requirements =>  
 discord.py 1.2.3
 
