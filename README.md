@@ -3,7 +3,7 @@
 ![python](https://img.shields.io/badge/python-3.8.6-blue.svg)
 
 A simple discord bot used for admin commands using discord.py rewrite.
-The bot has the following commands:
+The bot has the following commands:  
 !ping  !kick   !ban  !unban   !unbanall
 
 Create a bot using the discord developer portal
