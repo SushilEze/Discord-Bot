@@ -1,6 +1,6 @@
 ## Discord Bot using discord.py
 
-![python](https://img.shields.io/badge/python-3.8.6-blue.svg)(https://www.python.org/)
+!(https://img.shields.io/badge/python-3.8.6-blue.svg)(https://www.python.org/)
 
 A simple discord bot used for admin commands using discord.py rewrite.
 The bot has the following commands:  
