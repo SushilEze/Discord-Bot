@@ -11,7 +11,8 @@ https://discordapp.com/developers/applications/
 
 Create a bot,copy the token and paste it in the TOKEN.txt file.
 
-The bot is made using discord.py rewrite version. For more info refer the discord.py documetation.
+The bot is made using discord.py rewrite version. For more info refer the discord.py documetation.  
+https://discordpy.readthedocs.io/en/latest/
 
 Requirements =>
 discord.py 1.2.3
